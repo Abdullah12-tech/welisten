@@ -115,7 +115,7 @@ const WeListenLanding = () => {
           showStatus={false}
           infiniteLoop
           autoPlay
-          interval={5000}
+          interval={2000}
           transitionTime={800}
           className="h-full"
         >
